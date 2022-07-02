@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Web Site Blocker</string>
+    <string name="accessibility_service_description">SiteBlock</string>
+    <string name="access_denied">Access Denied</string>
+    <string name="go_back">Go Back</string>
+    <string name="schedule">Schedule</string>
+    <string name="add_your_timing">Add your timing</string>
+    <string name="add_timing">Add Timing</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="save">Save</string>
+    <string name="mode">Mode</string>
+    <string name="whitelist">Whitelist</string>
+    <string name="blacklist">Blacklist</string>
+    <string name="start">START</string>
+    <string name="end">END</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
